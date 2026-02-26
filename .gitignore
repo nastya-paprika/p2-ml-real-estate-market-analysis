@@ -1,0 +1,22 @@
+# Jupyter Notebook Checkpoint Files
+.ipynb_checkpoints
+**/.ipynb_checkpoints/
+
+# Python environment files
+.venv/
+env/
+venv/
+ENV/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# macOS files (if applicable)
+.DS_Store
+
+# Temporary and miscellaneous files
+# You may want to ignore large data files, log files, or sensitive information
+*.log
+*.sqlite
+*.csv
