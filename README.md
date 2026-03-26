@@ -50,7 +50,7 @@ The dataset includes two types of data for each property:
 
 ## Notes
 
-`data.csv` is private and cannot be shared. Example of data:
+`real_estate_data.csv` is private and cannot be shared. Example of data:
 
 ```csv
 total_images	last_price	total_area	first_day_exposition	rooms	ceiling_height	floors_total	living_area	floor	is_apartment	studio	open_plan	kitchen_area	balcony	locality_name	airports_nearest	cityCenters_nearest	parks_around3000	parks_nearest	ponds_around3000	ponds_nearest	days_exposition
